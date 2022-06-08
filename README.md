@@ -68,3 +68,44 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+***
+
+## VisualStudio Code : `Start React`
+
+[VS Code React install guide](https://ffoorreeuunn.tistory.com/200)
+
+[Node js & npm install guide](https:ffoorreeuunn.tistory.com/199)
+
+1. `Node js` 설치
+2. VS Code -> 터미널
+* `node --version, npm --version`
+3. `npm install -g create-react-app`
+4. `create-react-app my-app`
+* cmd 에서 설치 -> `npx create-react-app my-app`
+* [Git create-react-app](https:github.com/facebook/create-react-app)
+
+## 서버 시작
+
+1. VS Code -> 터미널
+2. cd my-app
+3. `npm start`
+
+## 서버 종료
+
+1. VS Code -> 터미널
+2. `Ctrl + C` -> y
+
+## Git 연동
+
+1. git 설치
+2. github 레파지토리 생성 - `기본설정`
+3. VS Code -> 터미널
+4. cd my-app
+5. `git init`
+6. `git remote add origin [url]`
+7. `git add .`
+8. `git commit -m "[comment]"`
+9. `git push origin master`
+
+***
