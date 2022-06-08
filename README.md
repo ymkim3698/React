@@ -4,7 +4,7 @@
 
 [VS Code React install guide](https://ffoorreeuunn.tistory.com/200)
 
-[Node js & npm install guide](https:ffoorreeuunn.tistory.com/199)
+[Node js & npm install guide](https://ffoorreeuunn.tistory.com/199)
 
 1. `Node js` 설치
 2. VS Code -> 터미널
@@ -12,7 +12,7 @@
 3. `npm install -g create-react-app`
 4. `create-react-app my-app`
 * cmd 에서 설치 -> `npx create-react-app my-app`
-* [Git create-react-app](https:github.com/facebook/create-react-app)
+* [Git create-react-app](https://github.com/facebook/create-react-app)
 
 ## 서버 시작
 
