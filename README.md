@@ -107,5 +107,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 7. `git add .`
 8. `git commit -m "[comment]"`
 9. `git push origin master`
+* 단계 별로 천천히 진행 추천
 
 ***
